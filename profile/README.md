@@ -1,6 +1,8 @@
-# Capstone Project
+# SIB x Dicoding Cycle 6 Capstone Project
 
 ![Website Preview](https://github.com/cleaning4solo/.github/blob/main/cleaning4soloCover.png?raw=true?raw=true)
+
+Capstone project for SIB x Dicoding 2024 Batch 6
 
 <table>
   <tr>
@@ -16,3 +18,13 @@
     <td>Green Economy dan Green Jobs</td>
   </tr>
 </table>
+
+#### Members
+
+![Team Members](https://github.com/cleaning4solo/.github/blob/main/team-cleaning4solo.png?raw=true?raw=true)
+
+| Name | Student ID | Role | LinkedIn | Github |
+| :------------------ | :------------- | :------------------ | :------------------ | :------------------ |
+| `Muhammad Miftahul Huda` | `F3586YB142` | `Full-Stack Web Dev` | [Click Me](LinkedInLink) | [Click Me](GitHubLink) |
+| `Muhammad Iqbal Firmansyah` | `F3326YB182` | `Full-Stack Web Dev` | [Click Me](LinkedInLink) | [Click Me](GitHubLink) |
+| `Darren Oswaldo Tanjaya` | `F2936YB327 ` | `Full-Stack Web Dev` | [Click Me](LinkedInLink) | [Click Me](GitHubLink) |
