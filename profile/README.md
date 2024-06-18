@@ -1,8 +1,8 @@
-# SIB x Dicoding Cycle 6 Capstone Project
+# Capstone Project for SIB x Dicoding 2024 Batch 6
 
 ![Website Preview](https://github.com/cleaning4solo/.github/blob/main/project-cleaning4solo.png?raw=true?raw=true)
 
-Capstone project for SIB x Dicoding 2024 Batch 6
+Front-End Web and Back-End Web
 
 <table>
   <tr>
